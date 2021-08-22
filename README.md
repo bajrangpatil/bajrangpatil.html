@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title> bajrangpatil Portfolio </title>
     <link rel="stylesheet"
-    href="C:\Users\DELL\OneDrive\Pictures\HTML\css\style.css">
+    href="# style.css">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
