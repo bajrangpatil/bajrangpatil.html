@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title> bajrangpatil Portfolio </title>
     <link rel="stylesheet"
-    href="# style.css">
+    href="https://github.com/bajrangpatil/bajrangpatil.html/blob/master/%23%20style.css">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
