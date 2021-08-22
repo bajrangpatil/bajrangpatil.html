@@ -1,5 +1,4 @@
 # bajrangpatil.html
-<!DOCTYPE html>
 <!-- Designined by bajrang patil>
 <html lang="en" dir="ltr">
   <head>
@@ -44,7 +43,6 @@
    <div class="home-content"><br><br>
     <div class="image">
     <div class="left">
-      <img src="images/home.jpg"alt>
     </div>
      <div class="text">
        <div class="text-one">Hello,</div>
@@ -180,9 +178,5 @@ I like to travel and Web designing. I believe in coding that  gives you a new pe
     <span>Created By <a href="#">Bajrangpatil Lit.</a> | &#169; 2021 All Rights Reserved</span>
   </div>
 </footer>
-
-  <script src="script.js"></script>
-</body>
-</html>
 
 
