@@ -1,10 +1,10 @@
 # bajrangpatil.html
 <!DOCTYPE html>
-<!-- Designined by bajrang patil | www.youtube.com/codinglabyt -->
+<!-- Designined by bajrang patil>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-    <title> bajrangpatil Portfolio Website | CodingLab </title>
+    <title> bajrangpatil Portfolio </title>
     <link rel="stylesheet"
     href="C:\Users\DELL\OneDrive\Pictures\HTML\css\style.css">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
